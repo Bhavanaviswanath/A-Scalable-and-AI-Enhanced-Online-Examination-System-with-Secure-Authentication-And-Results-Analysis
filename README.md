@@ -74,20 +74,16 @@ The Online Exam Registration System is developed to simplify and secure the enti
 - Leaderboard/Ranking View  
 - Admin Analytics View
 
-![image](https://github.com/user-attachments/assets/7bca1e13-ea23-4bfd-8bab-f52f01a4feeb)
+![OE1](https://raw.githubusercontent.com/Bhavanaviswanath/A-Scalable-and-AI-Enhanced-Online-Examination-System-with-Secure-Authentication-And-Results-Analysis/566e323c2538364a314a00ce2b1005cc3100bb30/OE1.png)
 
-![image](https://github.com/user-attachments/assets/10374465-3ec3-4143-af67-524d5ed311a0)
+![OE2](https://raw.githubusercontent.com/Bhavanaviswanath/A-Scalable-and-AI-Enhanced-Online-Examination-System-with-Secure-Authentication-And-Results-Analysis/566e323c2538364a314a00ce2b1005cc3100bb30/OE2.png)
 
-![image](https://github.com/user-attachments/assets/52c64f98-7e48-4306-b3a5-4c3c639aba9a)
+![OE3](https://raw.githubusercontent.com/Bhavanaviswanath/A-Scalable-and-AI-Enhanced-Online-Examination-System-with-Secure-Authentication-And-Results-Analysis/566e323c2538364a314a00ce2b1005cc3100bb30/OE3.png)
 
-![image](https://github.com/user-attachments/assets/fb3b32b2-a5b1-4219-8350-35bdb515ab55)
+![OE4](https://raw.githubusercontent.com/Bhavanaviswanath/A-Scalable-and-AI-Enhanced-Online-Examination-System-with-Secure-Authentication-And-Results-Analysis/566e323c2538364a314a00ce2b1005cc3100bb30/OE4.png)
 
-![image](https://github.com/user-attachments/assets/49cbe6ee-332e-421d-9151-304bce35698e)
+![OE5](https://raw.githubusercontent.com/Bhavanaviswanath/A-Scalable-and-AI-Enhanced-Online-Examination-System-with-Secure-Authentication-And-Results-Analysis/566e323c2538364a314a00ce2b1005cc3100bb30/OE5.png)
 
-
-![image](https://github.com/user-attachments/assets/d4590b5b-6a54-476c-83bb-3e73fcb6377a)
-
-![image](https://github.com/user-attachments/assets/9ce2a542-25d9-4560-9bda-fb14e459eb06)
 
 
 
