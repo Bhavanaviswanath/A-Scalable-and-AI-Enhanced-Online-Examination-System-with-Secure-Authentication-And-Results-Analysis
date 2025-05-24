@@ -93,4 +93,4 @@ The Online Exam Registration System is developed to simplify and secure the enti
 
 ## 📚 Authors
 
-- **Gudepu Rakshitha** – [natuvabhavana@gmail.com]
+- **Natuva Bhavana** – [natuvabhavana@gmail.com]
